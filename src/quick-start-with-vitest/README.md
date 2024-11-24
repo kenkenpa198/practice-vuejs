@@ -1,3 +1,38 @@
+# Practice - Vue.js - quick-start-with-typescript
+
+## Setup commands
+
+```shell
+$ npm create vue@latest
+
+> npx
+> create-vue
+
+
+Vue.js - The Progressive JavaScript Framework
+
+RangeError: Incorrect locale information provided
+
+✔ Project name: … quick-start
+✔ Add TypeScript? … No / Yes # No
+✔ Add JSX Support? … No / Yes # No
+✔ Add Vue Router for Single Page Application development? … No / Yes # No
+✔ Add Pinia for state management? … No / Yes # No
+✔ Add Vitest for Unit Testing? … No / Yes # Yes
+✔ Add an End-to-End Testing Solution? › No # No
+✔ Add ESLint for code quality? › No # No
+
+Scaffolding project in /home/kenkenpa198/works/develop/practice-vuejs/src/quick-start...
+
+Done. Now run:
+
+  cd quick-start
+  npm install
+  npm run dev
+```
+
+---
+
 # quick-start-with-vitest
 
 This template should help get you started developing with Vue 3 in Vite.
