@@ -31,10 +31,6 @@ Done. Now run:
   npm run dev
 ```
 
-## Reference
-
-- [クイックスタート | Vue.js](https://ja.vuejs.org/guide/quick-start.html)
-
 ---
 
 # quick-start
