@@ -1,7 +1,10 @@
 {
   "name": "practice-vuejs",
   "workspaces": [
-    "packages/quick-start",
+    "packages/quick-start-with-all",
+    "packages/quick-start-with-eslint-prettier",
+    "packages/quick-start-with-pinia",
+    "packages/quick-start-with-playwright",
     "packages/quick-start-with-typescript",
     "packages/quick-start-with-vitest"
   ]
