@@ -1,3 +1,40 @@
+# Practice - Vue.js - quick-start-with-all
+
+## Setup commands
+
+```shell
+$ npm create vue@latest
+
+> npx
+> create-vue
+
+
+Vue.js - The Progressive JavaScript Framework
+
+RangeError: Incorrect locale information provided
+
+✔ Project name: … quick-start-with-all
+✔ Add TypeScript? … No / Yes # Yes
+✔ Add JSX Support? … No / Yes # No
+✔ Add Vue Router for Single Page Application development? … No / Yes # No
+✔ Add Pinia for state management? … No / Yes # Yes
+✔ Add Vitest for Unit Testing? … No / Yes # Yes
+✔ Add an End-to-End Testing Solution? › Playwright # Yes
+✔ Add ESLint for code quality? › Yes # Yes
+✔ Add Prettier for code formatting? … No / Yes # Yes
+
+Scaffolding project in /home/kenkenpa198/works/develop/practice-vuejs/packages/quick-start-with-all...
+
+Done. Now run:
+
+  cd quick-start-with-all
+  npm install
+  npm run format
+  npm run dev
+```
+
+---
+
 # quick-start-with-all
 
 This template should help get you started developing with Vue 3 in Vite.
