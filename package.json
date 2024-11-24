@@ -1,0 +1,8 @@
+{
+  "name": "practice-vuejs",
+  "workspaces": [
+    "packages/quick-start",
+    "packages/quick-start-with-typescript",
+    "packages/quick-start-with-vitest"
+  ]
+}
