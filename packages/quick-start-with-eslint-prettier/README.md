@@ -23,12 +23,13 @@ RangeError: Incorrect locale information provided
 ✔ Add ESLint for code quality? › No # Yes
 ✔ Add Prettier for code formatting? … No / Yes # Yes
 
-Scaffolding project in /home/kenkenpa198/works/develop/practice-vuejs/src/quick-start...
+Scaffolding project in /home/kenkenpa198/works/develop/practice-vuejs/packages/quick-start-with-all...
 
 Done. Now run:
 
-  cd quick-start
+  cd quick-start-with-all
   npm install
+  npm run format
   npm run dev
 ```
 
